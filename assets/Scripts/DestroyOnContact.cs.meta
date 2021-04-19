@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dac891d1754f9194cb1523e1100e7da0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gulpFX: {fileID: 8300000, guid: c649bc17d5db1448b8fce82f3231914f, type: 3}
+  - gulpSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

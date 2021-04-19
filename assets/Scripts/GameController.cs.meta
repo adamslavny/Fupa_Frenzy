@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41878e9116e883e4f80b8d28e96c52fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gulpFX: {instanceID: 0}
+  - gulpSource: {instanceID: 0}
+  - food: {fileID: 3730597844234527797, guid: 08a9795658948f943987726956ed6adb, type: 3}
+  - poop: {fileID: 6549109265849288575, guid: f1b33c8036a8280449394e270f21ee13, type: 3}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
